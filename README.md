@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zaeem886&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="450" />
+
 
 - 🎓 **BS Computer Science** @ FAST-NUCES, Lahore (6th Semester)
 - 🏅 **2× Dean's List** Awardee
