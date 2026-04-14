@@ -19,7 +19,7 @@
 
 
 - 🎓 **BS Computer Science** @ FAST-NUCES, Lahore (6th Semester)
-- 🏅 **2× Dean's List** Awardee
+- 🏅 **3× Dean's List** Awardee
 - 🏆 **Competitive Programming Rank #5**
 - 💻 **6+ Projects** Completed
 - 🧠 Strong problem-solving mindset
