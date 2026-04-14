@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaeemch317@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaeem886)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Dean's+List+Awardee+(2x);Competitive+Programming+Rank+%235;Full-Stack+Web+Developer;Low-Level+Programming+Enthusiast;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Dean's+List+Awardee+(3x);Competitive+Programming+Rank+%235;Full-Stack+Web+Developer;Low-Level+Programming+Enthusiast;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
 
 </div>
 
