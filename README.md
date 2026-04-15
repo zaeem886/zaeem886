@@ -168,22 +168,6 @@ Built entirely in x86 Assembly using optimized backtracking. Focused on memory e
 
 </div>
 
----
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaeem886/zaeem886/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaeem886/zaeem886/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zaeem886/zaeem886/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## 📬 Connect With Me
 
