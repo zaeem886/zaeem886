@@ -25,7 +25,7 @@
 - 🧠 Strong problem-solving mindset
 - 🌱 Currently exploring **AI/ML** and **Full-Stack Development**
 - 📍 Based in **Lahore, Pakistan**
-- 📫 Reach me at **zaeemch317@gmail.com** | **+92 317 074 8438**
+- 📫 Reach me at **zaeemch317@gmail.com** 
 
 <br clear="both" />
 
