@@ -21,7 +21,7 @@
 - 🎓 **BS Computer Science** @ FAST-NUCES, Lahore (6th Semester)
 - 🏅 **3× Dean's List** Awardee
 - 🏆 **Competitive Programming Rank #5**
-- 💻 **6+ Projects** Completed
+- 💻 **7+ Projects** Completed
 - 🧠 Strong problem-solving mindset
 - 🌱 Currently exploring **AI/ML** and **Full-Stack Development**
 - 📍 Based in **Lahore, Pakistan**
