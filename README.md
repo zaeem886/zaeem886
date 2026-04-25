@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋, I'm Muhammad Zaeem
+# Muhammad Zaeem
 
 ### 🚀 Computer Science Undergraduate | Competitive Programmer | Full-Stack Developer
 
