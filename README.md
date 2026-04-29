@@ -152,7 +152,7 @@ Built entirely in x86 Assembly using optimized backtracking. Focused on memory e
 | 🏛️ Institution | 📜 Degree | 📅 Period | 🏅 Achievements |
 |---|---|---|---|
 | **FAST-NUCES, Lahore** | BS Computer Science | 2023 – Present | 2× Dean's List, CP Rank #5 |
-| **DPS Sahiwal** | FSc Pre-Engineering | 2021 – 2023 | 89% Aggregate |
+
 
 ---
 
